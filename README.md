@@ -2,6 +2,7 @@
 ![image](https://user-images.githubusercontent.com/80386146/173786921-c672df2d-ec0c-4b00-a3f9-a1ee35b988da.png)
 
 Normally the developers have to buy PalmSecure™ SDK for standalone development and additional server license for client-server application. To save the cost and time we provide:
-1) The authentication server to set up your application quickly. You need only buy PalmSecure™ sensor from Fujitsu or us;
-2) If you want to build your server in your company you can buy the service and we will install the server for you;
-3) Windows、Linux、or Android application samples with source code. 
+1) The authentication server to build your application quickly with a PalmSecure™ sensor;
+2) If you want to set up the server in your company we will install the server for you;
+3) Windows、Linux、and Android application samples with source codes.
+For more information please contact fujitsu.he@gmail.com.
